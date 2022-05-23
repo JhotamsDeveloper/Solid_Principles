@@ -1,8 +1,8 @@
-﻿using Models.Model_Solid_Principles_1_O;
+﻿using Problem_O.Models;
 
-namespace Problem_O
+namespace Problem_O.Services
 {
-    public class AccountService
+    public class AccountServices
     {
         public Staff Create(Person person)
         {
@@ -20,7 +20,7 @@ namespace Problem_O
                     staff.Email = $"{person.FirstName}.{person.LastName}@ProductOwner.com";
                     break;
 
-                case Role.Desarrollador:
+                case Role.Developer:
                     staff.Email = $"{person.FirstName}.{person.LastName}@Desarrollador.com";
                     break;
 

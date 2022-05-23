@@ -1,11 +1,6 @@
-﻿using Models.Model_Solid_Principles_0_S;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Soluction_S.Model;
 
-namespace Soluction
+namespace Soluction_S.Services
 {
     public class CourseReport
     {

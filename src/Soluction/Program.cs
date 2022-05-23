@@ -9,10 +9,15 @@
  * Aplicación:
  * Debo de crear un reporte de los curso que se imparten en una universidad y que estos reportes se puedan
  * guardar tanto en local y en un servicio en la nube.
+ * 
+ * RECOMENDACIONES
+ * Trabajar con pruebas unitarias TDD
+ * Desarrolladr de la manera que mejor se sienta y por último factorizar
  */
 
-using Models.Model_Solid_Principles_0_S;
-using Soluction;
+
+using Soluction_S.Model;
+using Soluction_S.Services;
 
 var report = new CourseReport();
 report.AddEntry(new CourseReportEntry { Name = "Patrones de diseño", Students = 1000, Rating = 5 });

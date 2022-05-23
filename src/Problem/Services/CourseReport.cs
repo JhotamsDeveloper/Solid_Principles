@@ -1,6 +1,6 @@
-﻿using Models.Model_Solid_Principles_0_S;
+﻿using Problem_S.Model;
 
-namespace Problem
+namespace Problem_S.Services
 {
     public class CourseReport //Curso reporte
     {

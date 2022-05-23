@@ -1,5 +1,5 @@
-﻿using Models.Model_Solid_Principles_0_S;
-using Problem;
+﻿using Problem_S.Model;
+using Problem_S.Services;
 
 /*
  * PROBLEM
