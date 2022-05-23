@@ -16,4 +16,4 @@ using Problem_I.Services;
 IVehicle bicycle = new BicycleServices();
 bicycle.NumberOfWheel = 2;
 
-Console.WriteLine($"{ bicycle.Move() } { bicycle.GetNumberOfWheel()   } ruedas; { bicycle.StartEngine() }, { bicycle.StopEngine() }");
+Console.WriteLine($"{ bicycle.Move() } { bicycle.GetNumberOfWheel() } ruedas; { bicycle.StartEngine() }, { bicycle.StopEngine() }");
