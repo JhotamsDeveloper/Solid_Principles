@@ -9,7 +9,7 @@ proyecto se amplía. Adoptar estas prácticas también puede ayudar a evitar los
 ![design_ppx-04](https://user-images.githubusercontent.com/49702007/170388935-6d2a1c8c-6e35-42d9-ab00-50714cd06858.jpg)
 
 ## ¿Que son los principios SOLID?
-Son recomendaciones a la hora de escribir código en lenguajes de programación orientado a objeto fuertemente tipado para el que código sea más.
+Son recomendaciones a la hora de escribir código en lenguajes de programación fuertemente tipado para el que código sea más.
 > - Mantenible
 > - Reutilizable
 > - Código limpio
